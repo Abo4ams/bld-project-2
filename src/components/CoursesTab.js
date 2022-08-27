@@ -5,8 +5,10 @@ function CoursesTab({ data }) {
   return (
     <div className="category-container">
       <div className="banner">
-        <h1>Expand your career opportunities with Python</h1>
-        <p className="banner-content">
+        <h1 className="banner-headline fnt-xl">
+          Expand your career opportunities with Python
+        </h1>
+        <p className="banner-content fnt-md">
           Take one of Udemy’s range of Python courses and learn how to code
           using this incredibly useful language. Its simple syntax and
           readability makes Python perfect for Flask, Django, data science, and
