@@ -1,0 +1,52 @@
+.html {
+  font-size: 62.5%;
+}
+
+.body {
+  width: 100vw;
+}
+
+fnt-sm {
+  font-family: udemy sans, -apple-system, BlinkMacSystemFont, Roboto, segoe ui,
+    Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji,
+    segoe ui symbol;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  font-size: 1.4rem;
+}
+
+button {
+  width: 124px;
+  height: 40px;
+  padding: 0 1.2rem;
+  color: #1c1d1f;
+  background-color: transparent;
+  border: 1px solid #1c1d1f;
+  min-width: 8rem;
+}
+
+.category-container {
+  margin: 1rem;
+  padding: 3rem;
+  border: 1px solid #d1d7dc;
+}
+
+.banner-content {
+}
+
+.courses-container {
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.course-title {
+  margin: 0.5rem 0;
+}
+
+.course-container {
+  margin-right: 2rem;
+  max-width: 240px;
+}
